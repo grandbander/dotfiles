@@ -14,6 +14,7 @@ colo elflord
 
 syntax on
 set hlsearch
+set ignorecase
 set smartcase
 set rnu
 set nu
